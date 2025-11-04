@@ -13,6 +13,20 @@ h2{
 p{
     color: dimgray;
 }
+
+.list-nav{
+    list-style: none;
+    padding-left: 5px;
+}
+.navigation-menu{
+    text-align: center;
+    height: 100px;
+}
+.navigation-menu li{
+    display: inline-block;
+    margin-right: 20px;
+    font-weight: 600;
+}
 .orange-highlight{
     color: orange;
 }
@@ -31,7 +45,7 @@ p{
 }
 section{
     height: 500px;
-    padding-bottom: 150px;
+    padding-bottom: 50px;
 }
 .link-button{
     text-decoration: none;
